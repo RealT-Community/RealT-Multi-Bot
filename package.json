@@ -1,0 +1,19 @@
+{
+  "name": "realt-multi-bot",
+  "version": "0.0.1",
+  "description": "cross-platform bot for realT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealT-Community/RealT-Multi-Bot.git"
+  },
+  "author": "RealT Community",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RealT-Community/RealT-Multi-Bot/issues"
+  },
+  "homepage": "https://github.com/RealT-Community/RealT-Multi-Bot#readme"
+}
