@@ -1,5 +1,5 @@
 module.exports = {
   telegram: {
-    apiKey: "YOUR-API-KEY",
+    apiKey: "YOUR-TELEGRAM-API-KEY",
   },
 }
