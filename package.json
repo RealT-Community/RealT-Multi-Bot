@@ -1,6 +1,6 @@
 {
   "name": "realt-multi-bot",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "cross-platform bot for realT",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RealT-Community/RealT-Multi-Bot#readme",
   "dependencies": {
+    "@k3rn31p4nic/google-translate-api": "^1.1.1",
     "dotenv": "^8.2.0",
     "node-telegram-bot-api": "^0.50.0"
   }
